@@ -1,1 +1,3 @@
 ikinci bölüm ilk satır
+
+ikinci bölüm ikinci satır
